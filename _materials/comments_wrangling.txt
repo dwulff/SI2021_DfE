@@ -1,0 +1,15 @@
+Adress Tidy data
+Choose highlighting color with better contrast to white
+slide 10 use more elaborate than df
+slide 11 mean(dr) should be debt_ratio
+slide 13 pastiends_df instead of baselers
+slide 16 table in bottom left: table placebo
+Is the catch-all necessary?
+warning bindrccp slide (?) 15
+statistical functions table on summarise slides suggests that there are only specific functions available
+
+
+
+We are expanding the leading material of the exercises. I recommend we move the tasks up. Wrangling is a good example. Using a tab structure would also help a lot, but still we should put the tasks first. Otherwise they may spend a lot of time on just reading.
+
+

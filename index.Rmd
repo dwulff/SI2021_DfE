@@ -1,0 +1,139 @@
+---
+title: "TAPMI Winter School 2020"
+author: "
+      <a href='https://www.dirkwulff.org'>
+        <i class='fas fa-home' style='font-size:1em;'></i>
+      </a>
+      <a href='https://github.com/dwulff/TAPMI_WS2020'>
+        <i class='fas fa-clock' style='font-size:1em;' ></i>
+      </a>
+      <a href='mailto:dirk.wulff@gmail.com'>
+        <i class='fas fa-envelope' style='font-size: 1em;'></i>
+      </a>
+      <a href='https://www.linkedin.com/in/dirk-wulff-723a7772/'>
+        <i class='fab fa-linkedin' style='font-size: 1em;'></i>
+      </a>
+      <a href='https://www.dirkwulff.org'>
+        <font style='font-style:normal;font-size:20px;padding-left:5px'>Dirk U. Wulff</font>
+      </a>
+      <br>
+      <img src='https://raw.githubusercontent.com/therbootcamp/therbootcamp.github.io/master/_sessions/_image/by-sa.png' style= 'height:16.7px;vertical-align:baseline'/><font style='font-style:normal;font-size:20px;padding-left:9.3px'>January 2020</font>
+      "
+output:
+  html_document:
+    css: index.css
+    self_contained: no
+---
+
+<br>
+
+<table>
+<tr>
+<td style="vertical-align:top;padding-right:10px">
+
+### I The description-experience gap <a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_keynote/DfE_2020_TAPMI_censored.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a></span>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/drosophila.png" width=480px style="height:80px">
+</p>
+
+<div style="width:480px;padding:5px;background-color: #FAD7A0;">
+
+#### Interactive 1 - 10min
+
+Go to this <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-7-element-1">**site**</a> to try out risky choices based on experience and description. **Don't sample for too long**. 
+</div>
+
+<div style="width:480px;padding:5px;margin-top:10px;background-color: #FAD7A0">
+
+#### Interactive 2 - 5min
+
+Please enter your intuitions about how people explore using this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtyEtCq6-ayi6o9njD6YpGwGeGHtlsNXSOvDxrkN-fqdo2pA/viewform?usp=sf_link">**survey**</a>. 
+</div>
+
+<div style="width:480px;padding:5px;margin-top:10px">
+
+#### References
+
+<a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_pdf/Wulff2018GapMeta.pdf">Wulff, D. U., Mergenthaler-Canseco, M., & Hertwig, R. (2018). A meta-analytic review of two modes of learning and the description-experience gap. *Psychological bulletin, 144*(2), 140-176.</a>
+
+<a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_pdf/Hertwig2018Risk.pdf">Hertwig, R., Wulff, D. U., & Mata, R. (2018). Three gaps and what they may mean for risk preference. *Philosophical Transactions of the Royal Society B, 374*(1766), 20180140.</a>
+
+Spektor, M., & Wulff, D. U. (in prep.) Strategic information search. Manuscript in preparation.
+
+<a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_pdf/Wulff2015Amazon.pdf">Wulff, D. U., Hills, T. T., & Hertwig, R. (2015). Online product reviews and the description–experience gap. Journal of Behavioral Decision Making, 28(3), 214-223.</a>
+
+</div>
+
+</td>
+<td style="vertical-align:top;padding-left:10px">
+
+### II Harnessing simulated experiences <a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_keynote/DfE_2020_TAPMI_II_censored.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/stocks.png" width=480px style="height:80px">
+</p>
+
+<div style="width:480px;padding:5px;background-color:lightblue">
+
+#### Interactive 1 - 20min
+
+Go to this <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-7-element-2">**site**</a> to explore the cognitive underpinnings of decisions from experience. 
+
+When you think you have found the best mix of cognitive components go to this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc7Xrw6d8XdZR1D5bl1Aqwr-6fcEwarEqOwgNx0RGgPiQtm3w/viewform?usp=sf_link">**survey**</a> to enter your predictions.
+
+</div>
+
+<div style="width:480px;padding:5px;margin-top:10px;background-color:lightblue">
+
+#### Interactive 2 - 20min
+
+Try out each of the risk intervention tools below (simply click on them). Only explore the tool. **Don't answer the questions** posed to after you've made the decisions. 
+
+
+<table style="margin-bottom:10px">
+  <tr>
+    <td style="padding:4px">
+    <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-10-element-2/description">
+    <p style="size:20px;weight:900">**Description**</p>
+    <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/description.png" style="height:60px;width:115px;border:1px solid lightgrey"></a>
+    </td>
+    <td style="padding:4px">
+    <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-10-element-2/risktool">
+    <p style="size:20px;weight:900">**Risk tool**</p>
+    <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/risktool.png" style="height:60px;width:115px;border:1px solid lightgrey"></a>
+    </td>
+    <td style="padding:4px">
+    <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-10-element-2/distribution">
+    <p style="size:20px;weight:900">**Distribution**</p>
+    <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/distribution.png" style="height:60px;width:115px;border:1px solid lightgrey"></a>
+    </td>
+    <td style="padding:4px">
+    <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-10-element-2/experience">
+    <p style="size:20px;weight:900">**Experience**</p>
+    <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/experience.png" style="height:60px;width:115px;border:1px solid lightgrey"></a>
+    </td>
+  </tr>
+</table>
+
+
+</div>
+
+When you have explore all risk intervention tools, go to this <a href="https://docs.google.com/forms/d/e/1FAIpQLSegU0lyIYw5xWUfjCMsB6je1uMlOtW6lrUsT5fHSEqvow41lA/viewform?usp=sf_link">**survey**</a> to share your impression on each of the tools.  
+
+</div>
+
+
+<div style="width:480px;padding:5px;margin-top:10px">
+
+#### References
+
+<a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_pdf/Kaufman2013RiskTool.pdf">Kaufmann, C., Weber, M., & Haisley, E. (2013). The role of experience sampling and graphical displays on one's investment risk appetite. Management science, 59(2), 323-340.</a>
+
+Hertwig, R., & Wulff, D. U. (in prep.). Learning From Experience and Description: Two Powerful Yet Imperfect Teachers of Risk Cognition. Invited by *Nature Human Behavior*. 
+
+</div>
+
+</td>
+</tr>
+</table>
