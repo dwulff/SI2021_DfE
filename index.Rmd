@@ -1,10 +1,10 @@
 ---
-title: "TAPMI Winter School 2020"
+title: "Summer Institute for Bounded Rationality"
 author: "
       <a href='https://www.dirkwulff.org'>
         <i class='fas fa-home' style='font-size:1em;'></i>
       </a>
-      <a href='https://github.com/dwulff/TAPMI_WS2020'>
+      <a href='https://github.com/dwulff/SI2021_DfE'>
         <i class='fas fa-clock' style='font-size:1em;' ></i>
       </a>
       <a href='mailto:dirk.wulff@gmail.com'>
@@ -17,7 +17,7 @@ author: "
         <font style='font-style:normal;font-size:20px;padding-left:5px'>Dirk U. Wulff</font>
       </a>
       <br>
-      <img src='https://raw.githubusercontent.com/therbootcamp/therbootcamp.github.io/master/_sessions/_image/by-sa.png' style= 'height:16.7px;vertical-align:baseline'/><font style='font-style:normal;font-size:20px;padding-left:9.3px'>January 2020</font>
+      <img src='https://raw.githubusercontent.com/therbootcamp/therbootcamp.github.io/master/_sessions/_image/by-sa.png' style= 'height:16.7px;vertical-align:baseline'/><font style='font-style:normal;font-size:20px;padding-left:9.3px'>June 2021</font>
       "
 output:
   html_document:
@@ -27,69 +27,40 @@ output:
 
 <br>
 
-<table>
-<tr>
-<td style="vertical-align:top;padding-right:10px">
-
-### I The description-experience gap <a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_keynote/DfE_2020_TAPMI_censored.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a></span>
+### Decisions from experience
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/drosophila.png" width=480px style="height:80px">
+  <img src="https://raw.githubusercontent.com/dwulff/SI2021_DfE/master/_sessions/_image/drosophila.png" width=480px style="height:80px">
 </p>
 
 <div style="width:480px;padding:5px;background-color: #FAD7A0;">
 
-#### Interactive 1 - 10min
+#### Interactive 1 - Paradigm (10min)
 
-Go to this <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-7-element-1">**site**</a> to try out risky choices based on experience and description. **Don't sample for too long**. 
+Go to this <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-7-element-1">**site**</a> to try out risky choices based on experience and description. 
 </div>
 
 <div style="width:480px;padding:5px;margin-top:10px;background-color: #FAD7A0">
 
-#### Interactive 2 - 5min
+#### Interactive 2 - Mechanisms (20min)
 
-Please enter your intuitions about how people explore using this <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtyEtCq6-ayi6o9njD6YpGwGeGHtlsNXSOvDxrkN-fqdo2pA/viewform?usp=sf_link">**survey**</a>. 
-</div>
+Go to this <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-7-element-2">**site**</a> to explore the cognitive underpinnings of decisions from experience. 
 
-<div style="width:480px;padding:5px;margin-top:10px">
-
-#### References
-
-<a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_pdf/Wulff2018GapMeta.pdf">Wulff, D. U., Mergenthaler-Canseco, M., & Hertwig, R. (2018). A meta-analytic review of two modes of learning and the description-experience gap. *Psychological bulletin, 144*(2), 140-176.</a>
-
-<a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_pdf/Hertwig2018Risk.pdf">Hertwig, R., Wulff, D. U., & Mata, R. (2018). Three gaps and what they may mean for risk preference. *Philosophical Transactions of the Royal Society B, 374*(1766), 20180140.</a>
-
-Spektor, M., & Wulff, D. U. (in prep.) Strategic information search. Manuscript in preparation.
-
-<a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_pdf/Wulff2015Amazon.pdf">Wulff, D. U., Hills, T. T., & Hertwig, R. (2015). Online product reviews and the description–experience gap. Journal of Behavioral Decision Making, 28(3), 214-223.</a>
+When you think you have found the best mix of cognitive components go to this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc7Xrw6d8XdZR1D5bl1Aqwr-6fcEwarEqOwgNx0RGgPiQtm3w/viewform?usp=sf_link">**questionnarie**</a> to enter your predictions.
 
 </div>
 
-</td>
-<td style="vertical-align:top;padding-left:10px">
-
-### II Harnessing simulated experiences <a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_keynote/DfE_2020_TAPMI_II_censored.pdf"><img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/slides.png" style="height:14px"></a>
+### Harnessing simulated experiences
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_image/stocks.png" width=480px style="height:80px">
 </p>
 
-<div style="width:480px;padding:5px;background-color:lightblue">
-
-#### Interactive 1 - 20min
-
-Go to this <a href="https://taming-uncertainty.mpib-berlin.mpg.de/chapter-7-element-2">**site**</a> to explore the cognitive underpinnings of decisions from experience. 
-
-When you think you have found the best mix of cognitive components go to this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc7Xrw6d8XdZR1D5bl1Aqwr-6fcEwarEqOwgNx0RGgPiQtm3w/viewform?usp=sf_link">**survey**</a> to enter your predictions.
-
-</div>
-
 <div style="width:480px;padding:5px;margin-top:10px;background-color:lightblue">
 
-#### Interactive 2 - 20min
+#### Interactive 3 - Risk communication (20min)
 
-Try out each of the risk intervention tools below (simply click on them). Only explore the tool. **Don't answer the questions** posed to after you've made the decisions. 
-
+Try out each of the risk communication tools below (simply click on them). Only explore the tool. **Ignore the questions** following the simulation tool. 
 
 <table style="margin-bottom:10px">
   <tr>
@@ -117,9 +88,7 @@ Try out each of the risk intervention tools below (simply click on them). Only e
 </table>
 
 
-</div>
-
-When you have explore all risk intervention tools, go to this <a href="https://docs.google.com/forms/d/e/1FAIpQLSegU0lyIYw5xWUfjCMsB6je1uMlOtW6lrUsT5fHSEqvow41lA/viewform?usp=sf_link">**survey**</a> to share your impression on each of the tools.  
+When you have explored all tools, go to this <a href="https://docs.google.com/forms/d/e/1FAIpQLSegU0lyIYw5xWUfjCMsB6je1uMlOtW6lrUsT5fHSEqvow41lA/viewform?usp=sf_link">**questionnarie**</a> to share your impression on each of the tools.  
 
 </div>
 
@@ -128,9 +97,11 @@ When you have explore all risk intervention tools, go to this <a href="https://d
 
 #### References
 
-<a href="https://raw.githubusercontent.com/dwulff/TAPMI_WS2020/master/_sessions/_pdf/Kaufman2013RiskTool.pdf">Kaufmann, C., Weber, M., & Haisley, E. (2013). The role of experience sampling and graphical displays on one's investment risk appetite. Management science, 59(2), 323-340.</a>
+<a href="https://raw.githubusercontent.com/dwulff/SI2021_DfE/master/_sessions/_pdf/Wulff2018GapMeta.pdf">Wulff, D. U., Mergenthaler-Canseco, M., & Hertwig, R. (2018). A meta-analytic review of two modes of learning and the description-experience gap. *Psychological bulletin, 144*(2), 140-176.</a>
 
-Hertwig, R., & Wulff, D. U. (in prep.). Learning From Experience and Description: Two Powerful Yet Imperfect Teachers of Risk Cognition. Invited by *Nature Human Behavior*. 
+<a href="https://raw.githubusercontent.com/dwulff/SI2021_DfE/master/_sessions/_pdf/Hertwig2018Risk.pdf">Hertwig, R., Wulff, D. U., & Mata, R. (2019). Three gaps and what they may mean for risk preference. *Philosophical Transactions of the Royal Society B, 374*(1766), 20180140.</a>
+
+<a href="https://raw.githubusercontent.com/dwulff/SI2021_DfE/master/_sessions/_pdf/HertwigWulff_inpress_RiskLearning.pdf">Hertwig, R. & Wulff, D. U. (forthcoming). A Description–Experience Framework of the Psychology of Risk. *Perspectives on Psychological Science*.</a>
 
 </div>
 
