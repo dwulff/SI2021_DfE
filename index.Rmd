@@ -1,5 +1,5 @@
 ---
-title: "Summer Institute for Bounded Rationality"
+title: "SI for Bounded Rationality"
 author: "
       <a href='https://www.dirkwulff.org'>
         <i class='fas fa-home' style='font-size:1em;'></i>
