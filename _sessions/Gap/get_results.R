@@ -34,6 +34,9 @@ d = d %>% mutate(
   )
 d$Noise[d$Noise > 1] = d$Noise[d$Noise > 1] / 1000
 
+# limit d
+d = d %>% filter(Zeitstempel > lubridate::ymd("2020-01-19"))
+
 mses = c()
 for(i in 1:nrow(d)){
 

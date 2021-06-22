@@ -103,6 +103,9 @@ When you have explored all tools, go to this <a href="https://docs.google.com/fo
 
 <a href="https://raw.githubusercontent.com/dwulff/SI2021_DfE/master/_sessions/_pdf/HertwigWulff_inpress_RiskLearning.pdf">Hertwig, R. & Wulff, D. U. (forthcoming). A Description–Experience Framework of the Psychology of Risk. *Perspectives on Psychological Science*.</a>
 
+<a href="https://raw.githubusercontent.com/dwulff/SI2021_DfE/master/_sessions/_pdf/WulffEtAl2019AdaptiveExploration.pdf">
+Wulff, D., Markant, D., Pleskac, T. J., & Hertwig, R. (2019). Adaptive exploration: What you see is up to you. In R. Hertwig, T. Pleskac, T. Pachur, & the Center for Adaptive Rationality (Eds.), <i>Taming uncertainty</i> (pp. 131–152). Boston, MA: MIT Press.</a>
+
 </div>
 
 </td>
